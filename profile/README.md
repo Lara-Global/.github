@@ -1,5 +1,9 @@
 # LARA - Smart Business Management Platform
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/24/d1/04/24d104372adf2028d07c47a5b1d38fe4.jpg" alt="LARA Logo">
+</p>
+
 **LARA** is an all-in-one business management platform designed to simplify and streamline operations for small businesses. With tools for inventory management, invoicing, ticket sales, and performance analytics, **LARA** empowers entrepreneurs to operate smarter and faster.
 
 ## Features
